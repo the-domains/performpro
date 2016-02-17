@@ -1,0 +1,28 @@
+name: PerformPro
+favicon: null
+layout_spectrum: 0.021547891665250063
+typography_spectrum: 0.786565066780895
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.81796157034114
+  lightness: 0.5719284804072231
+  saturation: 0.8248821329325438
+  rhythmicContrast: 0.09811300900764763
+purpose: []
